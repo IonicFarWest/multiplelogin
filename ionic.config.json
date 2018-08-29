@@ -1,7 +1,0 @@
-{
-  "name": "multiplelogin",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
